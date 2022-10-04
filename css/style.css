@@ -1,0 +1,45 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+img{
+    padding: 20px;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.navbar {
+    background-color: rgb(180, 180, 180);
+}
+
+.quem-somos {
+    background-color: rgb(175, 175, 175);
+}
+
+.parceiros{
+    background-color: rgb(165, 165, 165);
+}
+
+
+.serviços{
+    background-color: rgb(155, 155, 155);
+    padding: 50px;
+}
+
+.bg-footer{
+    background-color: rgb(145, 145, 145);
+    padding: 60px;
+}
+
+
+
+/*Coloração dos links*/
+
+
+a {
+    color:rgb(0, 0, 0);
+}
+
